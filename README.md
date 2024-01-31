@@ -1,5 +1,4 @@
-## TODO
-
+# YES, I learn old-fashion `awk`
 
 ## Useful Snippets
 
@@ -70,4 +69,5 @@ ps aux | awk '{ a = substr($1, 2); print a}'
 
 ## Resources
 
-1. 
+1. [Amazing material from FreedomBen](https://github.com/FreedomBen/awk-hack-the-planet)
+2. [GNU awk documentation](https://www.gnu.org/software/gawk/manual/gawk.html)
