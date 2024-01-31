@@ -1,0 +1,3 @@
+[submodule "awk-hack-the-planet"]
+	path = awk-hack-the-planet
+	url = https://github.com/FreedomBen/awk-hack-the-planet.git
